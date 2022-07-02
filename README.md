@@ -2,7 +2,7 @@
 <h3 align="center">Programming student :bowtie:</h3>
 
 
-![lazyness](https://user-images.githubusercontent.com/29002009/177016665-68390003-dd28-4b6d-a1ee-3fae02aa0b73.gif)
+![lazyness](https://64.media.tumblr.com/e42b065f1b25cdc0236ae4be08ba4625/5501940238be3fdf-e9/s500x750/447c258c6780f647e4befe60cf67e94b01af4c51.gifv)
 
 * Occupation: **_EDI Developer_**
 * Studying: **_student at GeekBrains_**
