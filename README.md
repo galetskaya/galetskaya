@@ -8,4 +8,4 @@
 * Studying: **_student at GeekBrains_**
 * Interests: **_League of Legends, PUBG_**
 * Languages: **_Russian/English/Dutch_**
-* Goals: **_to survive 2023 as well_** :trollface:
+* Goals: **_to survive 2024 _** :trollface:
